@@ -1,5 +1,4 @@
-# For this project you will be using OOP to create a card game. This card game will
-# be the card game "War" for two players, you and the computer. If you don't know
+# Card game will be the game "War" for two players, you and the computer. If you don't know
 # how to play "War" here are the basic rules:
 #
 # The deck is divided evenly, with each player receiving 26 cards, dealt one at a time,
